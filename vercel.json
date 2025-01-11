@@ -11,7 +11,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://project-saudagarnenas.vercel.app",
+        "APP_KEY": "base64:ZNbWvC6yPfSYGxxWMItawcA26ljXM8XYolwssGJJRaw=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
